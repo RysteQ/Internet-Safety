@@ -1,7 +1,3 @@
-# Safety tips
-
----
-
 ## Introduction
 
 This small guide explains how to stay **safe** on the internet. I made this because of my bad experience with being online and meeting all the wrong people resulting in me getting doxed.
