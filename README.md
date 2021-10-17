@@ -2,7 +2,7 @@
 
 This small guide explains how to stay **safe** on the internet. I made this because of my bad experience with being online and meeting all the wrong people resulting in me getting doxed.
 
-This sort tutorial will be separated in different rules, going from easy to implement to more inconvenient rules to follow.
+This short tutorial will be separated in different rules, going from easy to implement to more inconvenient rules to follow.
 
 Also, do **not** take this tutorial as the golden standard, there are far better tutorials out there with a quick google search on how to stay safe, this document covers what **I believe** everyone should follow at the very least to stay safe online.
 
@@ -41,7 +41,7 @@ Another no brainer tip but I mean that you should not share anything, that inclu
 * Gender
 * Sexual orientation
 
-There are way more things that you should not share with anyone but I think you get the point, with that said it's not the end of the world if you share some personal information to other people but avoid it as much as you can.
+There are way more things that you should not share with anyone but I think you get the point, with that said it's not the end of the world if you share some of your personal information but avoid it as much as you can.
 
 ### Rule number five: Do not make people angry
 
